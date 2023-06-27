@@ -9,12 +9,23 @@ i also tried to add payment option but due to lack of razorpay API i have just u
 4. php
 
 ## Pages on this Complete Free Template
-1. **index.html** - Home Page (Search Food, Some Categories, Featured Foods, Social Media link)
-2. **categories.html** - List all Categories on Single Page
-3. **foods.html** - List all foods on a single page
-4. **order.html** - Page to Order Selected Food
-5. **category_foods.html** - Page to list all the Foods based on Category Selected
-6. **food_search.html** - Page to list all the Foods based on Search keyword
+1.categories.html
+
+category-foods.html
+
+contact.html
+
+food-search.html
+
+foods.html
+
+index.html
+
+order.html
+
+process_contact.php
+
+process_payment.php
 
 
 ## For Sponsor or Project Enquiry
